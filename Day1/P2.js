@@ -1,8 +1,5 @@
 //Problem 2: Check Even or Odd  [Easy]
 //Write a function isEven(n) that returns true if a number is even, and false if it is odd.
-//Problem 2: Check Even or Odd  [Easy]
-//Write a function isEven(n) that returns true if a number is even, and false if it is odd.
-
 
 function isEven(n) {
     return n % 2 === 0;
@@ -23,7 +20,7 @@ function EvenOdd(num) {
 
 EvenOdd(7);
 
-
+/*
 let num = 4;
 
 if (num % 2 == 1) {
@@ -31,4 +28,4 @@ if (num % 2 == 1) {
 } else {
     console.log("Even");
 }
-
+*/
