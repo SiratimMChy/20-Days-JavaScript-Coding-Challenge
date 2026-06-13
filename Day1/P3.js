@@ -15,8 +15,9 @@ else {
 
 
 
-function LargestNumber(a, b, c) {
-    console.log("LargestNumber :", Math.max(a, b, c));
+function largest(a, b, c) {
+    console.log("Largest Number: ", Math.max(a, b, c));
 }
 
-LargestNumber(3, 17, 5);
+
+largest(2, 5, 7);
